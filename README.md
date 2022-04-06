@@ -24,3 +24,24 @@ You should use the following tools to accomplish this task:
 If you have any questions, please ask!
 
 To complete this projecet, please fork this repo and commit your work to your fork. When you are ready for us to look at it, give us access to your fork so we can review and run it.
+
+
+Solution:
+
+I have implemented an application using React.js. This is my first attempt working with React.js. I referred to 
+mutiple Youtube videos and some tutorials to get basic knowledge and come up with this. One of them in particular very much resembled to the requirements. I followed and incorporated custom changes to it.
+
+- Create a new invoice
+   The application can generate an invoice
+
+ - Add line items to the invoice. Line items may include hours of work at a specific rate, work-related expenses, materials, labor, etc.
+   There is option for items/ jobs.
+
+ - Add notes to the invoice, including an option on how to pay it, where to send checks, etc.
+   Notes can be added.
+
+ - An option to send the invoice via email (does not have to actually send emails)
+   There is option for printing the invoice and just a button to show sending emails can be incorporated
+   
+ - View invoices including status (paid, outstanding, late, etc.)
+   There is a field called Payment Status which can be edited to show the status.
